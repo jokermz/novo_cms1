@@ -1,0 +1,33 @@
+.customlogo-img{
+    height: 180px;
+    width: 180px;
+}
+
+.customicon-img{
+    height: 50px;
+    width: 50px;
+}
+
+/* Overwriting styles */
+
+.btn--style-primary{
+    background-color: rgb(88, 88, 223);
+    transition: 1.2s;
+}
+
+.btn--style-primary:hover{
+    background-color: rgb(88, 88, 223) !important;
+    opacity: .7;
+}
+
+.template-minimal{
+    padding: 2.7692307692rem 1.9230769231rem;
+}
+
+.nav nav a.active{
+    color: rgb(88, 88, 223);
+}
+
+.icon--chevron .stroke{
+    stroke: rgb(88, 88, 223);
+}
